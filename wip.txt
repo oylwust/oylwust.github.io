@@ -1,2 +1,2 @@
 var ip = '';
-var ip_update_date = '2025年 11月 24日 星期一 12:50:03 CST';
+var ip_update_date = '2025年 11月 24日 星期一 13:00:03 CST';
