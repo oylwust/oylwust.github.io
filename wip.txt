@@ -1,2 +1,2 @@
 var ip = '59.174.9.27';
-var ip_update_date = '2025年 12月 21日 星期日 04:32:11 CST';
+var ip_update_date = '2025年 12月 21日 星期日 06:32:17 CST';
